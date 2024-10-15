@@ -66,3 +66,6 @@ public class SpaDayController {
         return "menu";
     }
 }
+
+
+//my version rocks
